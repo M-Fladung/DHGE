@@ -4,4 +4,4 @@
 
 **Zum Kompilieren von SDL Dateien**
 - Der Linker Benötigt beim kompilieren die Dateien sdlinterf.h und sdlinterf.c in SDL_usage
-- **Beispielhaft:**  gcc sort.c sdlinterf.c `sdl2-config --cflags --libs` -lm 
+- **Beispielhaft:**  gcc sort.c sdlinterf.c `sdl2-config --cflags --libs -lm` 

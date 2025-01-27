@@ -1,0 +1,2 @@
+SDl/*.dll filter=lfs diff=lfs merge=lfs -text
+SDl/*.a filter=lfs diff=lfs merge=lfs -text
