@@ -1,8 +1,0 @@
-/root/development/DHGE/c++/build/CMakeFiles/hello.dir
-/root/development/DHGE/c++/build/CMakeFiles/edit_cache.dir
-/root/development/DHGE/c++/build/CMakeFiles/rebuild_cache.dir
-/root/development/DHGE/c++/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
-/root/development/DHGE/c++/build/vendored/SDL/CMakeFiles/SDL3_test.dir
-/root/development/DHGE/c++/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
-/root/development/DHGE/c++/build/vendored/SDL/CMakeFiles/edit_cache.dir
-/root/development/DHGE/c++/build/vendored/SDL/CMakeFiles/rebuild_cache.dir
