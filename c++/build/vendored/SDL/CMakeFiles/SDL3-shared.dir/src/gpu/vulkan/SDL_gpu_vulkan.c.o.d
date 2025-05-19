@@ -1,0 +1,33 @@
+vendored/SDL/CMakeFiles/SDL3-shared.dir/src/gpu/vulkan/SDL_gpu_vulkan.c.o: \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/SDL_gpu_vulkan.c \
+ /usr/include/stdc-predef.h \
+ /root/development/DHGE/c++/vendored/SDL/src/SDL_internal.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/vulkan.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/vk_platform.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/vulkan_core.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_h264std.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codecs_common.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_h264std_encode.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_h264std.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_h265std.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_h265std_encode.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_h265std.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_h264std_decode.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_h265std_decode.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_av1std.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_av1std_decode.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/../vk_video/vulkan_video_codec_av1std.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/khronos/vulkan/vulkan_beta.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_error.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_video.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../SDL_sysgpu.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/SDL_sysvideo.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/SDL_surface_c.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/../../video/SDL_blit.h \
+ /root/development/DHGE/c++/vendored/SDL/src/gpu/vulkan/SDL_gpu_vulkan_vkfuncs.h

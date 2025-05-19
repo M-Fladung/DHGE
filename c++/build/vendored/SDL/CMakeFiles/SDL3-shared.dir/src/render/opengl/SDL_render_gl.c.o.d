@@ -1,0 +1,23 @@
+vendored/SDL/CMakeFiles/SDL3-shared.dir/src/render/opengl/SDL_render_gl.c.o: \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/SDL_render_gl.c \
+ /usr/include/stdc-predef.h \
+ /root/development/DHGE/c++/vendored/SDL/src/SDL_internal.h \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/../../video/SDL_sysvideo.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_error.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_video.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/../../video/SDL_surface_c.h \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/../../video/SDL_blit.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_opengl.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_platform.h \
+ /root/development/DHGE/c++/vendored/SDL/include/SDL3/SDL_opengl_glext.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/../SDL_sysrender.h \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/../../video/SDL_surface_c.h \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/../SDL_yuv_sw_c.h \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/SDL_shaders_gl.h \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/../../video/SDL_pixels_c.h \
+ /root/development/DHGE/c++/vendored/SDL/src/render/opengl/SDL_glfuncs.h
