@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MySDLProject.dir/4c-Teil_3__Copy-Konstruktor_usw./main.cpp.o CMakeFiles/MySDLProject.dir/4c-Teil_3__Copy-Konstruktor_usw./rectangle.cpp.o CMakeFiles/MySDLProject.dir/sdlinterf.c.o -o MySDLProject   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL2.so -lm 

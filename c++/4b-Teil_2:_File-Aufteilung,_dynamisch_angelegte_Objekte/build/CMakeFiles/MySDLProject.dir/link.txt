@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MySDLProject.dir/4b-Teil_2__File-Aufteilung,_dynamisch_angelegte_Objekte/main.cpp.o CMakeFiles/MySDLProject.dir/4b-Teil_2__File-Aufteilung,_dynamisch_angelegte_Objekte/rectangle.cpp.o CMakeFiles/MySDLProject.dir/sdlinterf.c.o -o MySDLProject   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL2.so -lm 
