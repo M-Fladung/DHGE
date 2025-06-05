@@ -13,6 +13,8 @@ include_directories(${SDL2_INCLUDE_DIRS})
 add_executable(MySDLProject
     ../main.cpp
     ../rectangle.cpp
+    ../graobj.cpp
+    ../circ.cpp
     ../../sdlinterf.c
 )
 
