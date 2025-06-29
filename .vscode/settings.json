@@ -1,5 +1,13 @@
 {
     "files.associations": {
-        "sdl.h": "c"
+        "sdl.h": "c",
+        "array": "cpp",
+        "memory": "cpp",
+        "istream": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "__functional_base": "cpp",
+        "locale": "cpp"
     }
 }

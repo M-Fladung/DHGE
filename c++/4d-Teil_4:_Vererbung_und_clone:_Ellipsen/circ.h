@@ -7,7 +7,7 @@
 #define _CIRC_H
 
 // Header der Basisklasse inkludieren (der inkludiert auch color.h)
-#include "graobj.h"
+#include "graobj.h"N
 
 class Circ : public GraObj
 {
